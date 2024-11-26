@@ -1,2 +1,3 @@
+Create VIrtual environemnt : python3 -m venv ocr_env
 for run this project you can activate ocr_env with : source ocr_env/bin/activate
 for nonactive this project you can non active ocr_env with : deactivate
